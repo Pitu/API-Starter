@@ -1,0 +1,15 @@
+# Packages
+node_modules/
+_dist/
+
+# Log files
+logs/
+*.log
+
+# Miscellaneous
+.tmp/
+.vscode/
+
+# Stuff
+database.sqlite
+.env
