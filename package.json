@@ -1,5 +1,5 @@
 {
-	"name": "express-api-starter",
+	"name": "api-starter",
 	"version": "1.0.0",
 	"description": "Starter API server based on express",
 	"license": "MIT",
@@ -18,13 +18,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/WeebDev/lolisafe"
+		"url": "https://github.com/Pitu/API-Starter"
 	},
 	"bugs": {
-		"url": "https://github.com/WeebDev/lolisafe/issues"
+		"url": "https://github.com/Pitu/API-Starter/issues"
 	},
 	"engines": {
-		"node": ">=8.0.0"
+		"node": ">=10.0.0"
 	},
 	"dependencies": {
 		"adm-zip": "^0.4.13",
